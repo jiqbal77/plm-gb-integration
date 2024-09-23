@@ -1,0 +1,100 @@
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\log4net.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\GPDataLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\GPDataLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\log4net.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\GPUtils.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\log4net.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Debug\GPDataLayer.csproj.AssemblyReference.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Debug\GPDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Debug\GPDataLayer.csproj.CopyComplete
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Debug\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Debug\GPDataLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\RestSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\RestSharp.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\log4net.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\GPDataLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\GPDataLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\log4net.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\RestSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\GPUtils.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\GPUtils.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\log4net.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\RestSharp.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Debug\GPDataLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Debug\GPDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Debug\GPDataLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Debug\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Debug\GPDataLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\log4net.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\GPDataLayer.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\GPDataLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\GPDataLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\GPUtils.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\log4net.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\RestSharp.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\GPUtils.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\GPUtils.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\log4net.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\RestSharp.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\obj\Debug\GPDataLayer.csproj.AssemblyReference.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\obj\Debug\GPDataLayer.csproj.CoreCompileInputs.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\obj\Debug\GPDataLayer.csproj.CopyComplete
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\obj\Debug\GPDataLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPDataLayer\obj\Debug\GPDataLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\log4net.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPDataLayer.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPDataLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPDataLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\log4net.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\RestSharp.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPUtils.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\log4net.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\RestSharp.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.csproj.CopyComplete
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\log4net.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPDataLayer.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPDataLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPDataLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\log4net.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\RestSharp.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\GPUtils.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\log4net.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\RestSharp.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.csproj.CopyComplete
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPDataLayer\obj\Debug\GPDataLayer.pdb

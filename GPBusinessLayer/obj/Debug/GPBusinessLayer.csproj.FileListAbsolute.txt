@@ -1,0 +1,155 @@
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\log4net.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPBusinessLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\log4net.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPUtils.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\log4net.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CopyComplete
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Debug\GPBusinessLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Debug\GPBusinessLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPDataLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\GPDataLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\RestSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\RestSharp.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\log4net.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPBusinessLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\log4net.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\RestSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPDataLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPDataLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPUtils.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\GPUtils.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\log4net.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\RestSharp.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Debug\GPBusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Debug\GPBusinessLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Debug\GPBusinessLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\log4net.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPBusinessLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPDataLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPUtils.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\log4net.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\RestSharp.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPDataLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPDataLayer.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPUtils.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\GPUtils.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\log4net.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\RestSharp.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.AssemblyReference.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CopyComplete
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\obj\Debug\GPBusinessLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPBusinessLayer\obj\Debug\GPBusinessLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\log4net.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPBusinessLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPDataLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\log4net.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\RestSharp.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPDataLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPDataLayer.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPUtils.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\log4net.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\RestSharp.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CopyComplete
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\log4net.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPBusinessLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPBusinessLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPDataLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\log4net.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\RestSharp.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPDataLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPDataLayer.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\GPUtils.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\log4net.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\RestSharp.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.csproj.CopyComplete
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPBusinessLayer\obj\Debug\GPBusinessLayer.pdb

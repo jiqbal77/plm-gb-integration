@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GPDataLayer.Data.Enums
+{
+   public enum MessageType
+    {
+        BOM_DElETE_SUCCESS,
+        BOM_DElETE_FAILURE,
+        BOM_FETCH_SUCCESS,
+        BOM_FETCH_FAILURE,
+        BOM_UPSERT_SUCCESS,
+        BOM_UPSERT_FAILURE,
+        UPSERT_REMAINING_ATTR_SUCCESS,
+        UPSERT_REMAINING_ATTR_FAILURE,
+        MODIFY_WARANTY_DAY_SUCCESS,
+        MODIFY_WARANTY_DAY_FAILURE,
+        UPSERT_EXTRA_ATTR_FAILURE,
+        UPSERT_EXTRA_ATTR_SUCCESS,
+        UPSERT_EXTRA_INVENTORY_SUCCESS,
+        UPSERT_EXTRA_INVENTORY_FAILURE,  
+        UPSERT_EXTRA_INVENTORY2_SUCCESS,
+        UPSERT_EXTRA_INVENTORY2_FAILURE,
+        UPSERT_EXTRA_SHIPPING_SUCCESS,
+        UPSERT_EXTRA_SHIPPING_FAILURE,  
+        UPSERT_EXTRA_WARANTY_SUCCESS,
+        UPSERT_EXTRA_WARANTY_FAILURE,   
+        CPN_GENERATE_SUCCESS,
+        CPN_GENERATE_FAILURE,
+
+    }
+}

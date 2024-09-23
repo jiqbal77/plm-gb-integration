@@ -1,0 +1,40 @@
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\log4net.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\GPDataLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\GPDataLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\log4net.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\RestSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\GPUtils.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\log4net.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\RestSharp.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Release\GPDataLayer.csproj.AssemblyReference.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Release\GPDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Release\GPDataLayer.csproj.CopyComplete
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Release\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPDataLayer\obj\Release\GPDataLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\log4net.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\GPDataLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\GPDataLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\log4net.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\RestSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\GPUtils.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\GPUtils.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\log4net.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\RestSharp.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Release\GPDataLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Release\GPDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Release\GPDataLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Release\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPDataLayer\obj\Release\GPDataLayer.pdb

@@ -1,0 +1,155 @@
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\log4net.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\GPUtils.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\log4net.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Buffers.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Memory.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\log4net.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Buffers.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Memory.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\obj\Debug\GPUtils.csproj.AssemblyReference.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\obj\Debug\GPUtils.csproj.CoreCompileInputs.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\obj\Debug\GPUtils.csproj.CopyComplete
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\obj\Debug\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\obj\Debug\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\RestSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\RestSharp.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPUtils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\log4net.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\GPUtils.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\GPUtils.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\log4net.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\RestSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\log4net.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\RestSharp.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\obj\Debug\GPUtils.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\obj\Debug\GPUtils.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\obj\Debug\GPUtils.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\obj\Debug\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPUtils\obj\Debug\GPUtils.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\log4net.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\GPUtils.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\GPUtils.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\GPUtils.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\log4net.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Microsoft.ApplicationInsights.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\RestSharp.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Buffers.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Memory.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\log4net.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Microsoft.ApplicationInsights.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Microsoft.ApplicationInsights.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\RestSharp.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Buffers.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Memory.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Numerics.Vectors.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\obj\Debug\GPUtils.csproj.AssemblyReference.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\obj\Debug\GPUtils.csproj.CoreCompileInputs.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\obj\Debug\GPUtils.csproj.CopyComplete
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\obj\Debug\GPUtils.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPUtils\obj\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\log4net.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\GPUtils.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\log4net.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\RestSharp.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Buffers.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Memory.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Numerics.Vectors.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\log4net.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\RestSharp.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Buffers.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Memory.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Numerics.Vectors.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.csproj.CopyComplete
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\log4net.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\GPUtils.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\GPUtils.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\log4net.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\RestSharp.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Buffers.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Memory.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Numerics.Vectors.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\log4net.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Microsoft.ApplicationInsights.Log4NetAppender.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\RestSharp.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Buffers.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Memory.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Numerics.Vectors.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.csproj.CopyComplete
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPUtils\obj\Debug\GPUtils.pdb

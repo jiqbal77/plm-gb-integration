@@ -1,0 +1,62 @@
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\log4net.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPBusinessLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPBusinessLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPBusinessLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\log4net.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\RestSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPDataLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPDataLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\GPUtils.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\log4net.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\RestSharp.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Release\GPBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Release\GPBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Release\GPBusinessLayer.csproj.CopyComplete
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Release\GPBusinessLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPBusinessLayer\obj\Release\GPBusinessLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\log4net.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPBusinessLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPBusinessLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPBusinessLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\log4net.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\RestSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPDataLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPDataLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPUtils.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\GPUtils.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\log4net.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\RestSharp.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Release\GPBusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Release\GPBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Release\GPBusinessLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Release\GPBusinessLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPBusinessLayer\obj\Release\GPBusinessLayer.pdb

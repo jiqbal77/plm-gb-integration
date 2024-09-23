@@ -1,0 +1,425 @@
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\log4net.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPAdapter.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPAdapter.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPAdapter.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\csc.exe
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\csc.exe.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\csc.rsp
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\csi.exe
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\csi.exe.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\csi.rsp
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\vbc.exe
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\vbc.exe.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\vbc.rsp
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\VBCSCompiler.exe
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPBusinessLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPDataLayer.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPUtils.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Security.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Newtonsoft.Json.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Owin.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Net.Http.Formatting.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Web.Http.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Web.Http.Owin.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Web.Http.WebHost.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\log4net.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPBusinessLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPBusinessLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPDataLayer.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPDataLayer.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPUtils.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\GPUtils.dll.config
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Security.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Web.Http.Owin.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Newtonsoft.Json.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Net.Http.Formatting.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Web.Http.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\System.Web.Http.WebHost.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\log4net.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\obj\Debug\GPAdapter.csproj.AssemblyReference.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\obj\Debug\GPAdapter.csproj.CoreCompileInputs.cache
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\obj\Debug\GPAdapter.csproj.CopyComplete
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\obj\Debug\GPAdapter.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\obj\Debug\GPAdapter.pdb
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Buffers.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Memory.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\RestSharp.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\RestSharp.xml
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\M Awais Ullah\source\repos\GPAdapter\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\log4net.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPAdapter.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPAdapter.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPAdapter.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Buffers.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Memory.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPBusinessLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPDataLayer.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPUtils.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Owin.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Web.Http.Owin.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\log4net.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\RestSharp.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPBusinessLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPBusinessLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPDataLayer.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPDataLayer.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPUtils.pdb
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\GPUtils.dll.config
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Web.Http.Owin.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\log4net.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\bin\RestSharp.xml
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\obj\Debug\GPAdapter.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\obj\Debug\GPAdapter.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\obj\Debug\GPAdapter.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\obj\Debug\GPAdapter.dll
+C:\Users\hp\Desktop\Projects\Project-Int-Unicom-C#\GPAdapter\obj\Debug\GPAdapter.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\log4net.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPAdapter.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPAdapter.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPAdapter.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\csc.exe
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\csc.exe.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\csc.rsp
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\csi.exe
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\csi.exe.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\csi.rsp
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Buffers.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Memory.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Numerics.Vectors.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\vbc.exe
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\vbc.exe.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\vbc.rsp
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\VBCSCompiler.exe
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPBusinessLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPDataLayer.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPUtils.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.IdentityModel.Logging.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Security.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Security.Jwt.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Newtonsoft.Json.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Owin.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Net.Http.Formatting.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Web.Http.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Web.Http.Owin.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Web.Http.WebHost.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\log4net.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\RestSharp.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPBusinessLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPBusinessLayer.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPDataLayer.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPDataLayer.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPUtils.pdb
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\GPUtils.dll.config
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.IdentityModel.Logging.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Security.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Security.Jwt.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\Newtonsoft.Json.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Web.Http.Owin.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Net.Http.Formatting.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Web.Http.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\System.Web.Http.WebHost.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\log4net.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\bin\RestSharp.xml
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\obj\Debug\GPAdapter.csproj.AssemblyReference.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\obj\Debug\GPAdapter.csproj.CoreCompileInputs.cache
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\obj\Debug\GPAdapter.csproj.CopyComplete
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\obj\Debug\GPAdapter.dll
+E:\Projects\New folder\Unicom Price  list branch\Project-Int-Unicom\GPAdapter\obj\Debug\GPAdapter.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\log4net.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPAdapter.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPAdapter.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPAdapter.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csc.exe
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csc.exe.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csc.rsp
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csi.exe
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csi.exe.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csi.rsp
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Buffers.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Collections.Immutable.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Memory.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Numerics.Vectors.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Reflection.Metadata.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\vbc.exe
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\vbc.exe.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\vbc.rsp
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\VBCSCompiler.exe
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\VBCSCompiler.exe.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPBusinessLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPDataLayer.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPUtils.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Logging.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Owin.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Net.Http.Formatting.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.Owin.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.WebHost.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\log4net.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\RestSharp.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPBusinessLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPBusinessLayer.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPDataLayer.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPDataLayer.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPUtils.pdb
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPUtils.dll.config
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Logging.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.Owin.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Net.Http.Formatting.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.WebHost.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\log4net.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\RestSharp.xml
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.csproj.CopyComplete
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.dll
+D:\Products\UNICOM DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\log4net.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPAdapter.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPAdapter.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPAdapter.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csc.exe
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csc.exe.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csc.rsp
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csi.exe
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csi.exe.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\csi.rsp
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Buffers.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Collections.Immutable.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Memory.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Numerics.Vectors.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Reflection.Metadata.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\vbc.exe
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\vbc.exe.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\vbc.rsp
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\VBCSCompiler.exe
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\roslyn\VBCSCompiler.exe.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPBusinessLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPDataLayer.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPUtils.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Logging.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Newtonsoft.Json.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Owin.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Net.Http.Formatting.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.Owin.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.WebHost.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.Serialization.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Dynamics.GP.eConnect.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\log4net.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\RestSharp.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPBusinessLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPBusinessLayer.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPDataLayer.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPDataLayer.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPUtils.pdb
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\GPUtils.dll.config
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Logging.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\Newtonsoft.Json.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.Owin.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Net.Http.Formatting.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\System.Web.Http.WebHost.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\log4net.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\bin\RestSharp.xml
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.csproj.AssemblyReference.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.csproj.CoreCompileInputs.cache
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.csproj.CopyComplete
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.dll
+D:\Products\UNICOM DEV\DEV\Project-Int-Unicom\CodeRepository\Dynamic GP\GPAdapter\obj\Debug\GPAdapter.pdb
